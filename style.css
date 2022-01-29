@@ -1,0 +1,18 @@
+.animation-1 {
+  background-color: green;
+  color: white;
+  animation: change 5s forwards;
+}
+@keyframes color-change {
+  0% {
+    background-color: red;
+    transform: translate(0);
+  }
+  50% {
+    background-color: green;
+  }
+  100% {
+    background-color: blue;
+    transform: translate(100px);
+  }
+}
