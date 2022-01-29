@@ -1,7 +1,7 @@
 .animation-1 {
   background-color: green;
   color: white;
-  animation: change 5s forwards;
+  animation: color-change 5s forwards;
 }
 @keyframes color-change {
   0% {
