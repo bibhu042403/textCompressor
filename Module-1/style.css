@@ -1,4 +1,21 @@
-.animation-1 {
+.responsive {
+  display: flex;
+  justify-content: space-around;
+  /*
+  height: 300px;
+  width: 800px;
+  background-color: red;
+  color: white;
+  padding: 10px;*/
+  font-size: 60px;
+}
+@media screen and (max-width: 1000px) {
+  .responsive {
+    width: 500px;
+  }
+}
+
+/*.animation-1 {
   background-color: green;
   color: white;
   animation: color-change 5s forwards;
@@ -15,4 +32,4 @@
     background-color: blue;
     transform: translate(100px);
   }
-}
+} */
