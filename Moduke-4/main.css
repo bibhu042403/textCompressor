@@ -2,3 +2,9 @@
   font-size: 50px;
   background-color: green;
 }
+.table {
+  margin-top: 15px;
+}
+.table td {
+  border: 1px solid #000;
+}
