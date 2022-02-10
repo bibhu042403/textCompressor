@@ -1,0 +1,12 @@
+{
+  "name": "bibhu_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index5.js"
+  },
+  "author": "Bibhu Bhushan",
+  "license": "ISC"
+}
