@@ -8,5 +8,9 @@
     "start": "node index5.js"
   },
   "author": "Bibhu Bhushan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
 }
